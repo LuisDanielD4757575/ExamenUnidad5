@@ -1,0 +1,10 @@
+git init 
+git add 
+git commit -m 
+git log 
+git status
+git lg 
+git branch 
+git checkout
+git reset 
+git reset--soft 
